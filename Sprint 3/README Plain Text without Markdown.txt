@@ -1,4 +1,5 @@
-Please view this submission instead on our Github repository. Essential markdown has been removed from this file.
+Please view this submission instead on our Github repository: https://github.com/chrismsmalley/PeerPresents
+Essential markdown has been removed from this file.
 
 Hi! We're **TEAM___?**, and we're developing data analytics features for PeerPresents, "a web-based system for in-class peer feedback during student presentations" for our Spring 2023 Capstone project at the University of Memphis.
 
