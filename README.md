@@ -1,4 +1,4 @@
-Hi! We're TEAM___? (Team Fill-in-the-Blank), and we're developing data analytics features for [PeerPresents](https://github.com/Ludolab/PeerPresents
+Hi! We're **TEAM___?**, and we're developing data analytics features for [PeerPresents](https://github.com/Ludolab/PeerPresents
 ),
 > "a web-based system for in-class peer feedback during student presentations"
 
@@ -21,10 +21,9 @@ Included in this repository, you will find directories for each sprint, the most
     - [3_23_23 Team Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_23_23%20Team%20Meeting%20Notes.docx)
     - [3_28_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_28_23%20Client%20Meeting%20Notes.docx)
     - [Sprint 3 Demo Day Planning (3_29_23 Team Meeting Notes).docx](/Sprint%203/Meeting%20Notes/Sprint%203%20Demo%20Day%20Planning%20(3_29_23%20Team%20Meeting%20Notes).docx)
-    - TBD: Sprint 3 Reflection Meeting Notes
-      - TBD: Project Board Screen Shots (no before screenshots since it was populated during this sprint)
     - TBD: Sprint 3 Reflection (3_30_23 Team Meeting Notes).docx
   - [**Team Documents**](/Sprint%203/Team%20Documents/)
+    - TBD: Project Board Screen Shots [^1]
     - TBD: TEAM____ Capstone Timesheet.xlsx
     - [TEAM____ Contract.docx](/Sprint%203/Team%20Documents/TEAM____%20Contract.docx)
   - [**Deliverables**](/Sprint%203/Deliverables/)
@@ -33,11 +32,8 @@ Included in this repository, you will find directories for each sprint, the most
 
 ## External Links
 
- - [Timesheet](https://docs.google.com/spreadsheets/d/1KkuSKicscj2jMrfE9vEN9oWsRSRhucUxY9IdotBWA_4/edit?usp=sharing)[^1]
- - [Project Board](https://github.com/Ludolab/PeerPresents/projects/2)[^2]
-
-[^1]: Ideally formatted Google Spreadsheet for your viewing pleasure
-[^2]: Requires account repository access
+ - [Timesheet](https://docs.google.com/spreadsheets/d/1KkuSKicscj2jMrfE9vEN9oWsRSRhucUxY9IdotBWA_4/edit?usp=sharing)[^2]
+ - [Project Board](https://github.com/Ludolab/PeerPresents/projects/2)[^1][^3]
 
 ## About us
 **TEAM___? (Team Fill-in-the-Blank)**
@@ -45,3 +41,8 @@ Included in this repository, you will find directories for each sprint, the most
 - Andre Brumfield [@Andre-Brumfield](github.com/Andre-Brumfield)
 - Chris Smalley [@chrismsmalley](github.com/chrismsmalley/)
 - Elliott Schwarzman [@fairlyaverage](github.com/fairlyaverage)
+
+<!-- footnotes should be rendered on GH -->
+[^1]: No before screenshots since it was populated during this sprint
+[^2]: Ideally formatted Google Spreadsheet for your viewing pleasure
+[^3]: Requires account repository access
