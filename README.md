@@ -21,10 +21,11 @@ Included in this repository, you will find directories for each sprint, the most
     - [3_23_23 Team Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_23_23%20Team%20Meeting%20Notes.docx)
     - [3_28_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_28_23%20Client%20Meeting%20Notes.docx)
     - [Sprint 3 Demo Day Planning (3_29_23 Team Meeting Notes).docx](/Sprint%203/Meeting%20Notes/Sprint%203%20Demo%20Day%20Planning%20(3_29_23%20Team%20Meeting%20Notes).docx)
-    - TBD: Sprint 3 Reflection (3_30_23 Team Meeting Notes).docx
+    - [Sprint 3 Reflection (3_30_23 Team Meeting Notes).docx](/Sprint%203/Meeting%20Notes/Sprint%203%20Reflection%20(3_30_23%20Team%20Meeting%20Notes).docx)
   - [**Team Documents**](/Sprint%203/Team%20Documents/)
-    - TBD: Project Board Screen Shots [^1]
-    - TBD: TEAM____ Capstone Timesheet.xlsx
+    - [GH_Project_Board_a.png](/Sprint%203/Team%20Documents/GH_Project_Board_a.png)[^1]
+    - [GH_Project_Board_b.png](/Sprint%203/Team%20Documents/GH_Project_Board_b.png)[^1]
+    - [TEAM____ Capstone Timesheet.xlsx](/Sprint%203/Team%20Documents/TEAM____%20Capstone%20Timesheet.xlsx)[^2]
     - [TEAM____ Contract.docx](/Sprint%203/Team%20Documents/TEAM____%20Contract.docx)
   - [**Deliverables**](/Sprint%203/Deliverables/)
     - [PeerPresents Model Diagram.pdf](/Sprint%203/Deliverables/PeerPresents%20Model%20Diagram.pdf)
@@ -44,5 +45,5 @@ Included in this repository, you will find directories for each sprint, the most
 
 <!-- footnotes should be rendered on GH -->
 [^1]: No before screenshots since it was populated during this sprint
-[^2]: Ideally formatted Google Spreadsheet for your viewing pleasure
+[^2]: External Link maintains readability, original formatting of the Google Spreadsheet for your viewing pleasure
 [^3]: Requires account repository access
