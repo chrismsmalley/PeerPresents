@@ -33,6 +33,8 @@ Included in this repository, you will find directories for each sprint, the most
 
 ## External Links
 
+ - [PeerPresents Repository](https://github.com/Ludolab/PeerPresents)[^3]
+ - [TEAM___? Sprint Submission Repository](https://github.com/chrismsmalley/PeerPresents)[^4]
  - [Timesheet](https://docs.google.com/spreadsheets/d/1KkuSKicscj2jMrfE9vEN9oWsRSRhucUxY9IdotBWA_4/edit?usp=sharing)[^2]
  - [Project Board](https://github.com/Ludolab/PeerPresents/projects/2)[^1][^3]
 
@@ -47,3 +49,4 @@ Included in this repository, you will find directories for each sprint, the most
 [^1]: No before screenshots since it was populated during this sprint
 [^2]: External Link maintains readability, original formatting of the Google Spreadsheet for your viewing pleasure
 [^3]: Requires account repository access
+[^4]: Public repository for our sprint submissions (you're here now)
