@@ -1,38 +1,47 @@
-The project repo we will be updating can be found at: https://github.com/Ludolab/PeerPresents
+Hi! We're TEAM___? (Team Fill-in-the-Blank), and we're developing data analytics features for [PeerPresents](https://github.com/Ludolab/PeerPresents
+),
+> "a web-based system for in-class peer feedback during student presentations"
 
-Our clients instructed to specifically focus on development environment setup during this sprint as there were [unknown] difficulties for previous developers. They further requested that we maintain documentation about changes or deviations to the guides included in the repo's existing documentation. Each member of TEAM___? had access to a different combination of hardware and operating system, and by the end of this sprint we were successful with an x86_64/Linux installation and setup which was demonstrated in class; over spring break, the other two members will explore this option in order to facilitate progress on testing and development in sprint 3.
+ for our Spring 2023 Capstone project at the University of Memphis.
 
-Included in the Sprint 2 directory are the following files:
+Presently, our third sprint is drawing to a close and during which we've made some tangible development progress after resolving development environment setup issues. This project has been developed by many teams over a number of years. As the packages and modules used to build this app have matured, the various updates, deprecations, and abandonments of these tools has lead to difficulties in functionality while preserving or meeting dependency requirements. At the beginning of this sprint, our team completed the development environment setup, but encountered issues slowing our development progress once we began working with the existing code related to data sets. These new obstacle have diverted our attention, but we're pleased to report that the majority of the team has resolved these problems and is able to code and test freely moving forward. We also have a fallback plan in case any issues persist to work collaboratively on the development tasks to ensure we meet our goals.
 
-Updated Team Contract to reflect pronounciation of TEAM___? name (Team Fill-in-the-Blank)
-- Team Contract (Updated).docx
+## Sprint 3 Submission
 
-Daily check-ins primarily occurred in Discord - please refer to Timesheet.xlsx for details
+Included in this repository, you will find directories for each sprint, the most recent of which is Sprint 3 which contains:
 
-In-person meetings were held on Tuesdays and Thursdays; notes from each meeting follow the format:
-- Month_Day_Year Team Meeting Notes.docx
+- [**Sprint 3**](/Sprint%203/)
+  - [**Meeting Notes**](/Sprint%203/Meeting%20Notes/)
+    - [3_13_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/)
+    - [Sprint 3 Planning (3_16_23 Team Meeting Notes).docx](/Sprint%203/Meeting%20Notes/Sprint%203%20Planning%20(3_16_23%20Team%20Meeting%20Notes).docx)
+    - [3_16_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_16_23%20Client%20Meeting%20Notes.docx)
+    - [3_21_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_21_23%20Client%20Meeting%20Agenda.docx)
+    - [3_21_23 Team Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_21_23%20Team%20Meeting%20Notes.docx)
+    - [3_23_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_23_23%20Client%20Meeting%20Notes.docx)
+    - [3_23_23 Team Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_23_23%20Team%20Meeting%20Notes.docx)
+    - [3_28_23 Client Meeting Notes.docx](/Sprint%203/Meeting%20Notes/3_28_23%20Client%20Meeting%20Notes.docx)
+    - [Sprint 3 Demo Day Planning (3_29_23 Team Meeting Notes).docx](/Sprint%203/Meeting%20Notes/Sprint%203%20Demo%20Day%20Planning%20(3_29_23%20Team%20Meeting%20Notes).docx)
+    - TBD: Sprint 3 Reflection Meeting Notes
+      - TBD: Project Board Screen Shots (no before screenshots since it was populated during this sprint)
+    - TBD: Sprint 3 Reflection (3_30_23 Team Meeting Notes).docx
+  - [**Team Documents**](/Sprint%203/Team%20Documents/)
+    - TBD: TEAM____ Capstone Timesheet.xlsx
+    - [TEAM____ Contract.docx](/Sprint%203/Team%20Documents/TEAM____%20Contract.docx)
+  - [**Deliverables**](/Sprint%203/Deliverables/)
+    - [PeerPresents Model Diagram.pdf](/Sprint%203/Deliverables/PeerPresents%20Model%20Diagram.pdf)
+    - [PeerPresents User Flow.zip](/Sprint%203/Deliverables/PeerPresents%20User%20Flow.zip)
 
-Client meetings were held over Discord, and notes are named following the format:
-- Month_Day_Year Client Meeting Notes.docx
+## External Links
 
-A draft of documentation for changes with respect to the repo's existing setup guides for successful development environment setup is included. The client has not yet requested this document, and as such it is a work in progress. We will improve readability in upcoming sprints as other members of the team are able to provide feedback based on their own experience.
-- Local Development Environment Setup Notes (WIP).docx
+ - [Timesheet](https://docs.google.com/spreadsheets/d/1KkuSKicscj2jMrfE9vEN9oWsRSRhucUxY9IdotBWA_4/edit?usp=sharing)[^1]
+ - [Project Board](https://github.com/Ludolab/PeerPresents/projects/2)[^2]
 
-Timesheet - please see Sprint 2 tabs
-- Please view ideally formatted TEAM___? Capstone Timesheet: https://docs.google.com/spreadsheets/d/1KkuSKicscj2jMrfE9vEN9oWsRSRhucUxY9IdotBWA_4/edit?usp=sharing
-- TEAM___? Capstone Timesheet.xlsx
+[^1]: Ideally formatted Google Spreadsheet for your viewing pleasure
+[^2]: Requires account repository access
 
-Sprint 2 Reflection meeting notes:
-- Sprint 2 Reflections Notes.docx
+## About us
+**TEAM___? (Team Fill-in-the-Blank)**
 
-Powerpoint presentation used to supplement demonstration of working development environment:
-- Sprint 2 Demo Day Presentation.pptx
-
-The model diagram hasn't changed:
-- PeerPresents Model Diagram.pdf
-
-The wireframes have not changed either, but pending confirmation during our next client meeting. The wireframes related to graphical data visualization are most relevant including HOME-Studies, Create Study Page, Study 9:
-- PeerPresents User Flow.zip
-
-Sprint 2 Progress (Demo talking points):
-- Sprint 2 Progress.docx
+- Andre Brumfield [@Andre-Brumfield](github.com/Andre-Brumfield)
+- Chris Smalley [@chrismsmalley](github.com/chrismsmalley/)
+- Elliott Schwarzman [@fairlyaverage](github.com/fairlyaverage)
