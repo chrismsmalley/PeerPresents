@@ -15,7 +15,7 @@ Included in this repository, you will find directories for each sprint, the most
 - [**Sprint 4**]
 Included in this repository, you will find directories for each sprint, the most recent of which is Sprint 4 which contains:
 
-- [**Sprint 4**](/Sprint%203/)
+- [**Sprint 4**](/Sprint%204/)
   
 ## External Links
 
